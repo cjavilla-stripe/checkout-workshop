@@ -26,13 +26,13 @@ Ideas:
 
 * Pull from the Stripe API
 * Hard code some client side JSON
-* Retrieve from a database
+* Retrieve from a database and use SSR
+* Render back JSON from a server side endpoint
 
 
 🧠 What are the tradeoffs with each of those approaches? What data do you
-_really_ need for display? What about data required for ultimately redirecting
-to Checkout?
-
+_really_ need for display? What about data required for ultimately [creating the
+Checkout Session](https://stripe.com/docs/api/checkout/sessions/create)?
 
 
 ---
