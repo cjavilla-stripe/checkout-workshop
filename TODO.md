@@ -5,6 +5,7 @@
  - [x] get cool shirts
  - [x] make a payment link for one flavor and start getting customers
    - https://buy.stripe.com/test_00g9BX1vOf7AgA8aEE
+ - [ ] [create a product catalog](./steps/00-add-products.md)
  - [ ] [website!](./steps/01-website.md)
  - [ ] build an order system
    - [ ] select flavors
