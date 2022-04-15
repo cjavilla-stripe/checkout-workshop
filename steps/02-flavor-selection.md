@@ -9,7 +9,7 @@ There's a jira ticket sitting in my inbox to add "flavor selection" to the site.
 (Who am I kidding, we can't afford jira yet, it's just a text from my
 sister, but damn it feels like a jira ticket.)
 
---
+---
 
 Customers love to identify with a specific flavor of ice-cream. "I'm a rocky
 road kinda gal." says one of the regulars. "I'm a funfetti kinda kid" says our
