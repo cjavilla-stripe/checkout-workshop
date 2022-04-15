@@ -52,4 +52,4 @@ open a [markdown file](./TODO.md).
 
 ---
 
-
+Checkout the [TODO list](./TODO.md) to get started.
