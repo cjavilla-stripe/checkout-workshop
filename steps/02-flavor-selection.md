@@ -4,19 +4,19 @@ Customers love to identify with a specific flavor of ice-cream. "I'm a rocky
 road kinda gal." says one of the regulars. "I'm a funfetti kinda kid" says our
 neighbor. They want variety!
 
-When starting out in beta, you didn't even have a website, so we kept it simple
+When starting out in beta, you didn't even have a website, so you kept it simple
 and used PaymentLinks. It's killing Cherry and my sister that customer's can't
 pick more flavors, tho.
 
 There's a jira ticket sitting in my inbox to add "flavor selection" to the site.
 
-(Who am I kidding, we can't afford jira yet, it's just a text from my
+(Who am I kidding, you can't afford jira yet, it's just a text from my
 sister, but damn it feels like a jira ticket.)
 
 
 ## Actions
 
-Update our UI so that we keep track of several requested flavors 🍨 in a "box."
+Update the UI so that it keeps track of several requested flavors 🍨 in a "box."
 
 Ideas for storing cart state:
 
