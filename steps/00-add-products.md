@@ -8,10 +8,14 @@ Hazelnut 🍫, funfetti 🌈, and Tiramisu 🍥!
 You know that you need to create some products in Stripe, but rather than creating
 each by hand, you'll want to make this a little faster.
 
+### Setup
+
 If you haven't already, [install the Stripe
 CLI](https://stripe.com/docs/stripe-cli). We'll use that to quickly [create
 Products](https://stripe.com/docs/api/products/create) and
 [Prices](https://stripe.com/docs/api/prices/create).
+
+### Inventory
 
 Due to popular demand, here's a short list of flavors she wants to add:
 
@@ -33,12 +37,18 @@ You decide whether you want each flavor to be the same price or if you want to
 charge more for those delicious chunks of cookie, or swirls of caramel. To keep
 it easy, assume you'll only sell in one currency, to start.
 
+### Considerations
+
 🧠 Should you have one Product for the pint of ice-cream, then several prices for
 each flavor? One Product for each price point? One Product with one Price per
 price point? One Product per flavor each with one price for USD? Why?
 
+🧠 How will you handle inventory running low?
 
-**Hints**:
+🧠 How will you handle inventory running low?
+
+
+### Hints
 
 The tax ID for Food is: `txcd_40040000`. In case you're curious, you can look
 that up here: https://stripe.com/docs/tax/tax-codes.
@@ -53,3 +63,7 @@ A public URL for each file looks like:
 ```
 https://github.com/cjavilla-stripe/checkout-workshop/raw/main/assets/images/amaretto-almond.jpeg
 ```
+
+---
+
+[<- Back to TODO](../TODO.md) [Next make a website ->](./01-website.md)
