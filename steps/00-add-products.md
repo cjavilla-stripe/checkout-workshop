@@ -23,6 +23,11 @@ tiramisu
 vanilla
 ```
 
-You'll find some product images for each in the [`assets/images`](../assets/images) directory.
+You'll find some `.jpeg` product images for each in the [`assets/images`](../assets/images) directory.
 
 
+A public URL for each file looks like:
+
+```
+https://github.com/cjavilla-stripe/checkout-workshop/raw/main/assets/images/amaretto-almond.jpeg
+```
