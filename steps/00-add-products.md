@@ -11,7 +11,7 @@ each by hand, you'll want to make this a little faster.
 ### Setup
 
 If you haven't already, [install the Stripe
-CLI](https://stripe.com/docs/stripe-cli). We'll use that to quickly [create
+CLI](https://stripe.com/docs/stripe-cli). It's not required, but it can help to quickly [create
 Products](https://stripe.com/docs/api/products/create) and
 [Prices](https://stripe.com/docs/api/prices/create).
 
@@ -45,8 +45,6 @@ price point? One Product per flavor each with one price for USD? Why?
 
 🧠 How will you handle inventory running low?
 
-🧠 How will you handle inventory running low?
-
 
 ### Hints
 
@@ -63,6 +61,10 @@ A public URL for each file looks like:
 ```
 https://github.com/cjavilla-stripe/checkout-workshop/raw/main/assets/images/amaretto-almond.jpeg
 ```
+
+## Task
+
+Programmatically create ice-cream shop inventory.
 
 ---
 
