@@ -45,6 +45,10 @@ price point? One Product per flavor each with one price for USD? Why?
 
 🧠 How will you handle inventory running low?
 
+🧠 What's a tax ID? Tax behavior? Tax category? How do I enable automatic tax
+collection in the dashboard? If I enable tax collection, what changes about the
+customer's experience.
+
 
 ### Hints
 
@@ -65,6 +69,20 @@ https://github.com/cjavilla-stripe/checkout-workshop/raw/main/assets/images/amar
 ## Task
 
 Programmatically create ice-cream shop inventory.
+
+Ideas:
+
+- Script in your lingua franca
+- ["Grab Shell Dude"](https://www.deviantart.com/11011997panic/art/Finding-Nemo-2-897262759) use the Stripe CLI and some sh magic
+- Use [Stripe CLI fixtures](https://stripe.com/docs/cli/fixtures)
+
+
+🧠 (Not required, but...) How do you make this idempotent? If you haven't
+already seen them, look at those Search endpoints.
+
+🧠 Is it possible to decrease the number of API calls to achieve this?
+
+
 
 ---
 
