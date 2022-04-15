@@ -56,6 +56,11 @@ open a markdown file.
  - [ ] buy a domain
  - [ ] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
  - [ ] get cool shirts
+ - [ ] build an order system
+   - [ ] select flavors
+   - [ ] collect shipping address
+   - [ ] accept payments
+ - [ ] build a fulfillment system
 
 
 
