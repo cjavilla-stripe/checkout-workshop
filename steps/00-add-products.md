@@ -17,7 +17,7 @@ Due to popular demand, here's a short list of flavors she wants to add:
 
 ```
 amaretto-almond
-chery
+cherry
 chocolate-hazelnut
 cookies-and-cream
 espresso-coffee
@@ -26,11 +26,8 @@ salted-caramel
 tiramisu
 ```
 
-### Actions
-
-Using products and prices, model several flavors for your inventory. For now,
-you only sell by the pint. Customers should see a name, description, image,
-currency, amount and tax ID.
+For now, you only sell by the pint. Customers should see a name, description,
+image, currency, amount and tax ID.
 
 You decide whether you want each flavor to be the same price or if you want to
 charge more for those delicious chunks of cookie, or swirls of caramel. To keep
@@ -39,8 +36,6 @@ it easy, assume you'll only sell in one currency, to start.
 🧠 Should you have one Product for the pint of ice-cream, then several prices for
 each flavor? One Product for each price point? One Product with one Price per
 price point? One Product per flavor each with one price for USD? Why?
-
-
 
 
 **Hints**:
