@@ -5,8 +5,8 @@ option for selling a single flavor. But your sister is bummed that she can't
 unleash her creative inner child and start selling more flavors like Chocolate
 Hazelnut 🍫, funfetti 🌈, and Tiramisu 🍥!
 
-You know that you need to create some products in Stripe, but rather than creating
-each by hand, you'll want to make this a little faster.
+You know that you need to create some products in Stripe, but rather than
+creating each by hand, you'll want to make this a little faster.
 
 ### Setup
 
@@ -81,7 +81,6 @@ Ideas:
 already seen them, look at those Search endpoints.
 
 🧠 Is it possible to decrease the number of API calls to achieve this?
-
 
 
 ---
