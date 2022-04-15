@@ -53,10 +53,9 @@ open a markdown file.
 
 ### TODO:
 
-- [] buy a domain
-- [] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
-- [] get cool shirts
--
+ - [] buy a domain
+ - [] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
+ - [] get cool shirts
 
 
 
