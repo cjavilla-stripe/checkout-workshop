@@ -5,18 +5,22 @@ road kinda gal." says one of the regulars. "I'm a funfetti kinda kid" says our
 neighbor. They want variety!
 
 When starting out in beta, you didn't even have a website, so you kept it simple
-and used PaymentLinks. It's killing Cherry and my sister that customer's can't
+and used PaymentLinks. It's killing Cherry and your sister that customer's can't
 pick more flavors, tho.
 
-There's a jira ticket sitting in my inbox to add "flavor selection" to the site.
+There's a jira ticket sitting in your inbox to add "flavor selection" to the site.
 
-(Who am I kidding, you can't afford jira yet, it's just a text from my
+(Who am I kidding, you can't afford jira yet, it's just a text from your
 sister, but damn it feels like a jira ticket.)
 
 
 ## Actions
 
-Update the UI so that it keeps track of several requested flavors 🍨 in a "box."
+Update the UI so that it keeps track of several requested flavors 🍨 in a
+"box." At the end of this section, you should just have a way to keep track of
+how many pints of each flavor the customer wants to buy. No need to actually
+charge them, yet.
+
 
 Ideas for storing cart state:
 
@@ -45,6 +49,6 @@ have for the product team about how to make this easier?
 
 [<- Back to 01 website!](./01-website.md)
 |
-[Next O3 Shipping ->](./03-shipping.md)
+[Next O3 Checkout ->](./03-checkout.md)
 
 [TODO](../TODO.md)
