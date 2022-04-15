@@ -18,7 +18,9 @@ on the silverware 🥄. Feel free to tweak a bit to make it your own.
 
 
 [TODO](../TODO.md)
-|
-[<- Back to 00 Add products ->](./00-add-products.md)
+
+
+
+[<- Back to 00 Add products](./00-add-products.md)
 |
 [Next O2 Flavor selection ->](./02-flavor-selection.md)
