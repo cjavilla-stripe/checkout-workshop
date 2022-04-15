@@ -18,7 +18,7 @@ From that episode, you learned that Sam helped build a 🍪 cookie empire to
 $200k/month in revenue 💰. They decided to keep things very lean and rather than
 paying for an e-comm platform, that they'd build their own.
 
-*Several benefits*:
+**Several benefits**:
 
 0. Avoid paying e-comm platform fees
 0. Make a very customizable payment flows where customers can select flavors
@@ -38,11 +38,25 @@ Eaton." Google home loaded the audio file and started to play with a nice intro
 
 40 minutes later, we're on the patio, covered in dry erase marker and plans for
 starting an ice-cream business drawn all over the sliding glass door. Our
-make-shift dry erase board spellt only one thing -- we all needed to quit our
-jobs and go all-in on this idea, lest we shrivel into our shells of OKRs and
-Perf cycles.
+make-shift dry erase board spelled out a beautiful plan, but between the
+wireframe lines, anyone could clearly see only one thing -- we all needed to
+quit our jobs and go all-in on this idea, lest we shrivel into our shells of
+OKRs and Perf cycles.
 
 
+You all go home, each with a list of verbal action items. You just can't shake it, tho.
+The drive home, then in the shower, then while lying awake in bed. The list of
+TODOs and the CouldDos is growing, so you open your crusty personal laptop, the
+one you don't use much now that you're on the work machine all day, and you
+open a markdown file.
+
+
+### TODO:
+
+- [] buy a domain
+- [] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
+- [] get cool shirts
+-
 
 
 
