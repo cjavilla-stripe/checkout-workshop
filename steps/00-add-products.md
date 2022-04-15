@@ -66,4 +66,6 @@ https://github.com/cjavilla-stripe/checkout-workshop/raw/main/assets/images/amar
 
 ---
 
-[<- Back to TODO](../TODO.md) [Next make a website ->](./01-website.md)
+[<- Back to TODO](../TODO.md)
+|
+[Next make a website ->](./01-website.md)
