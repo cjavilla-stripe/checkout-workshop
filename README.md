@@ -48,24 +48,8 @@ You all go home, each with a list of verbal action items. You just can't shake i
 The drive home, then in the shower, then while lying awake in bed. The list of
 TODOs and the CouldDos is growing, so you open your crusty personal laptop, the
 one you don't use much now that you're on the work machine all day, and you
-open a markdown file.
+open a [markdown file](./TODO.md).
 
-
-### TODO:
-
- - [ ] buy a domain
- - [ ] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
- - [ ] get cool shirts
- - [ ] build an order system
-   - [ ] select flavors
-   - [ ] collect shipping address
-   - [ ] accept payments
- - [ ] build a fulfillment system
-
-
-
-
-
-
+---
 
 
