@@ -1,4 +1,4 @@
-### TODO:
+### TODOs:
 
  - [x] buy a domain (airborne-treats.store)
  - [ ] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
@@ -15,6 +15,8 @@
  - [ ] [let customers subscribe to a box](./steps/06-subscription.md)
  - [ ] let customers re-order the same order as last time
  - [ ] [billing management](./08-customer-portal.md)
+
+### CouldDOs:
  - [ ] [make it a marketplace](./09-connect.md)
  - [ ] [get control of spend](./10-issuing.md)
  - [ ] reduce fraud
