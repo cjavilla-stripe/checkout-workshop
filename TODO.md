@@ -14,3 +14,8 @@
  - [ ] [let customers login](./steps/06-authentication.md)
  - [ ] [let customers subscribe to a box](./steps/06-subscription.md)
  - [ ] let customers re-order the same order as last time
+ - [ ] [billing management](./08-customer-portal.md)
+ - [ ] [make it a marketplace](./09-connect.md)
+ - [ ] [get control of spend](./10-issuing.md)
+ - [ ] reduce fraud
+ - [ ] improve reporting
