@@ -45,7 +45,7 @@ Ideas for shortcuts:
 
 [<- Back to 05 Gifts](./05-gifts.md)
 |
-[Next O7 Subscription ->](./07-subscription.md)
+[Next 07 Subscription ->](./07-subscription.md)
 
 [TODO](../TODO.md)
 

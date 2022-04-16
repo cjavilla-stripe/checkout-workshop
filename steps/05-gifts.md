@@ -47,6 +47,6 @@ they need to hand write a note.
 
 [<- Back to 04 fulfillment](./04-fulfillment.md)
 |
-[Next O6 Authentication ->](./06-authentication.md)
+[Next 06 Authentication ->](./06-authentication.md)
 
 [TODO](../TODO.md)

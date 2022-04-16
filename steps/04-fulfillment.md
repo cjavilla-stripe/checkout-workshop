@@ -49,6 +49,6 @@ when the delivery will be national and not local?
 
 [<- Back to 03 checkout](./03-checkout.md)
 |
-[Next O5 Gifting 🎁 ->](./05-gifts.md)
+[Next 05 Gifting 🎁 ->](./05-gifts.md)
 
 [TODO](../TODO.md)

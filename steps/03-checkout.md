@@ -42,6 +42,6 @@ doesn't order more than you have ready to deliver?
 
 [<- Back to 02 flavor-selection](./02-flavor-selection.md)
 |
-[Next O4 ??? ->](./04-.md)
+[Next 04 Fulfillment ->](./04-fulfillment.md)
 
 [TODO](../TODO.md)

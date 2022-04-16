@@ -188,7 +188,7 @@ Checkout Session](https://stripe.com/docs/api/checkout/sessions/create)?
 
 [<- Back to 00 Add products](./00-add-products.md)
 |
-[Next O2 Flavor selection ->](./02-flavor-selection.md)
+[Next 02 Flavor selection ->](./02-flavor-selection.md)
 
 
 [TODO](../TODO.md)

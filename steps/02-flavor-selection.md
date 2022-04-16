@@ -49,6 +49,6 @@ have for the product team about how to make this easier?
 
 [<- Back to 01 website!](./01-website.md)
 |
-[Next O3 Checkout ->](./03-checkout.md)
+[Next 03 Checkout ->](./03-checkout.md)
 
 [TODO](../TODO.md)
