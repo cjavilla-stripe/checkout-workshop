@@ -37,7 +37,6 @@ doesn't order more than you have ready to deliver?
 🧠 Why would you use `dynamic_tax_rates`, `tax_rates`, or `automatic_tax[enabled]=true`?
 
 
-
 ---
 
 [<- Back to 02 flavor-selection](./02-flavor-selection.md)

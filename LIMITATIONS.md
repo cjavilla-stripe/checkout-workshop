@@ -40,3 +40,7 @@ portal or manage a subscription with Checkout.
 
 At the end of the day it's: **Use Checkout to create a Subscription, and the
 Customer portal to manage a Subscription**.
+
+### Customer portal cannot handle editing quantities for multiple subscription items
+
+But it can support changing payment method or canceling plans.

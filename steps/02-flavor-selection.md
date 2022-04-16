@@ -24,6 +24,7 @@ charge them, yet.
 
 Ideas for storing cart state:
 
+* local js variable (quick and dirty)
 * cookies
 * localStorage
 * a database

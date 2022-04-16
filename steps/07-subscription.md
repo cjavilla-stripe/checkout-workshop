@@ -24,4 +24,16 @@ flavors. It was really throwing off our reporting.
 
 Add support for subscribing to an ice-cream box on a monthly, or weekly basis.
 
+🧠 How should you model products and prices?
+
+🧠 How will you enable customers to manage their subscription (think cancel, change frequency)?
+
+---
+
+[<- Back to 05 Gifts](./05-gifts.md)
+|
+[Next 07 Subscription ->](./07-subscription.md)
+
+[TODO](../TODO.md)
+
 
