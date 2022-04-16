@@ -17,7 +17,7 @@ sister, but damn it feels like a jira ticket.)
 ## Actions
 
 Update the UI so that it keeps track of several requested flavors 🍨 in a
-"box." At the end of this section, you should just have a way to keep track of
+"box." At the end of this section, you should have a way to keep track of
 how many pints of each flavor the customer wants to buy. No need to actually
 charge them, yet.
 

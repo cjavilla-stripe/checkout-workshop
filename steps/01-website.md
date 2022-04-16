@@ -166,7 +166,9 @@ be okay with this for long. We learned at work that we can do this thing called
 
 ### Actions
 
-Set up your page so that it fetches the flavors from inventory.
+Set up your page so that it fetches the flavors from inventory. At the end of
+this section you should have a simple index page rendering all of the flavors.
+No need to actually implement Checkout, yet.
 
 
 Ideas:

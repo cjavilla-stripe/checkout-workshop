@@ -5,7 +5,7 @@ the right 📈.
 
 The scrapy startup system where Mamey and Cherry depend on the [Slack
 integration with Stripe](https://stripe.slack.com/apps/A0F81FNVC-stripe) to
-know about orders isn't scaling well. Furthermore, now that customers can
+know about new orders isn't scaling well. Furthermore, now that customers can
 pick multiple flavors, fulfillment is getting chaotic.
 
 Also, after chatting with Chip, you learn that it would be more efficient
@@ -18,12 +18,13 @@ Cherry also posted an idea in the #what-if channel a few weeks ago:
 > What if we could deliver locally via drone and nationally in affordable
 > ice-chests with dry ice?
 
-
+You decide it's time to build your own fulfillment system.
 
 ### Actions
 
 Set up a webhook handler to know when a customer successfully pays for a new
-order. It should print an order summary including:
+order. By the end of this section, you should have a webhook handler that
+prints an order summary including:
 
 - customer email
 - customer phone
@@ -42,10 +43,6 @@ way to make sure the customer doesn't _change_ the shipping address?
 cost related with shipping nationally? How would you go about showing those only
 when the delivery will be national and not local?
 
-
-In the early days of Airborne Treats, Mamey and Cherry would try to estimate
-demand for the number of pints, create 20% more than that, and store the
-remainder in a freezer in the barn.
 
 
 ---

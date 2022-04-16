@@ -8,7 +8,9 @@ _this week_ then the business is [default dead](http://www.paulgraham.com/aord.h
 ## Actions
 
 Create a Checkout Session with the flavors and quantities and redirect to
-Checkout.
+Checkout. At the end of this section, customers should be able to pick
+order 2 vanilla and 3 chocolate-hazelnut. They'll be charged appropriate
+taxes and you'll know where to send the goods.
 
 
 **Once you're able to redirect**:

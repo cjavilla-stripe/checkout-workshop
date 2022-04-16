@@ -1,6 +1,6 @@
 ### TODO:
 
- - [x] buy a domain
+ - [x] buy a domain (airborne-treats.store)
  - [x] ask Trag to draw a sweet 🍦 logo (make sure it'll look good on stickers)
  - [x] get cool shirts
  - [x] make a payment link for one flavor and start getting customers

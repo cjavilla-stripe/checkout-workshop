@@ -11,8 +11,8 @@ creating each by hand, you'll want to make this a little faster.
 ### Setup
 
 If you haven't already, [install the Stripe
-CLI](https://stripe.com/docs/stripe-cli). It's not required, but it can help to quickly [create
-Products](https://stripe.com/docs/api/products/create) and
+CLI](https://stripe.com/docs/stripe-cli). It's not required, but it can help to quickly create
+[Products](https://stripe.com/docs/api/products/create) and
 [Prices](https://stripe.com/docs/api/prices/create).
 
 ### Inventory
@@ -68,13 +68,17 @@ https://github.com/cjavilla-stripe/checkout-workshop/raw/main/assets/images/amar
 
 ## Task
 
-Programmatically create ice-cream shop inventory.
+Programmatically create ice-cream shop inventory. At the end of this section,
+you should have all of the flavors with pricing and image loaded into your
+Stripe account.
+
 
 Ideas:
 
 - Script in your lingua franca
 - ["Grab Shell Dude"](https://www.deviantart.com/11011997panic/art/Finding-Nemo-2-897262759) use the Stripe CLI and some sh magic
 - Use [Stripe CLI fixtures](https://stripe.com/docs/cli/fixtures)
+- Notebooks! 📓
 
 
 🧠 (Not required, but...) How do you make this idempotent? If you haven't
