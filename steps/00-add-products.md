@@ -3,7 +3,7 @@
 At this point, you've experimented with Payment Links and know they are a great
 option for selling a single flavor. But your sister is bummed that she can't
 unleash her creative inner child and start selling more flavors like Chocolate
-Hazelnut 🍫, funfetti 🌈, and Tiramisu 🍥!
+Hazelnut 🍫, Funfetti 🌈, and Tiramisu 🍥!
 
 You know that you need to create some products in Stripe, but rather than
 creating each by hand, you'll want to make this a little faster.
