@@ -23,15 +23,30 @@ flavors. It was really throwing off our reporting.
 ### Actions
 
 Add support for subscribing to an ice-cream box on a monthly, or weekly basis.
+You should know when customers subscribe and when they cancel, you should also
+know if they change their selection or flavor preferences. And be able to
+print orders when they are ready.
+
+
+🧠 How will you support both one time and recurring orders? Still support
+gifting?
 
 🧠 How should you model products and prices?
 
-🧠 How will you enable customers to manage their subscription (think cancel, change frequency)?
+🧠 How will you enable customers to manage their subscription (think cancel,
+change frequency)?
+
+🧠 How will you test your logic and that it is renewing successfully one week
+in the future?
+
+🧠  What `metadata` would come in handy to have on the Subscription object?
+What about on the Checkout Session?
+
 
 ---
 
-[<- Back to 05 Gifts](./05-gifts.md)
+[<- Back to 06 Authentication](./06-authentication.md)
 |
-[Next 07 Subscription ->](./07-subscription.md)
+[Next 08 Customer portal ->](./08-customer-portal.md)
 
 [TODO](../TODO.md)
