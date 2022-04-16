@@ -35,5 +35,3 @@ Add support for subscribing to an ice-cream box on a monthly, or weekly basis.
 [Next 07 Subscription ->](./07-subscription.md)
 
 [TODO](../TODO.md)
-
-

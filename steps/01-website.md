@@ -19,7 +19,9 @@ be okay with this for long. We learned at work that we can do this thing called
 
 Set up your page so that it fetches the flavors from inventory. At the end of
 this section you should have a simple index page rendering all of the flavors.
-No need to actually implement Checkout, yet.
+No need to actually implement Checkout, yet. Feel free to start from a Stripe
+Sample to save time: `stripe samples create accept-a-payment` then follow the
+pre-built flow.
 
 
 Ideas:
