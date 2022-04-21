@@ -6,21 +6,22 @@ a custom made 2x4 spatula. Last week, you didn't get much engineering work
 done because you've been helping out on the support side.
 
 In addition to slanging code, you're also the first line of defence for
-support@airborne-treats.store. Volume has gone up over the past couple weeks from
-10-20 tickets per day to 40-50 tickets on a heavy day.
+`support@airborne-treats.store`. Volume has gone up 📈 over the past couple
+weeks from 10-20 tickets per day to 40-50 tickets on a heavy day.
 
 One thing you've noticed is about 10% of these tickets are folks asking to
-change their order so that its delivered annonymously to another person with a note.
+change their order so that its delivered annonymously to another person with a
+note.
 
-Several customers are now starting to buy ice-cream and have it delivered to their
-friends, especially those friends in Ashville, where its quite fun to see a
-drone land and drop off a box of ice-cream pints!
+Several customers are now starting to buy ice-cream and have it delivered to
+their friends, especially those friends in Ashville, where its quite fun to see
+a drone land and drop off a box of ice-cream pints!
 
-You decide that this weekend while the support queue is quiet, you'll bang out
-a new feature to support gifting. It'll collect an optional gift note that will
-be written by hand. The notes will be special, beautifully hand written; the
-team is already stretched super thin, so you need a way to make sure this
-doesn't kill the business.
+You decide that this weekend, while the support queue is quiet, you'll bang out
+a new feature to support gifting. The site needs a form to collect an optional
+gift note that will be written by hand. The notes will be special, beautifully
+hand written; the team is already stretched super thin, so you need a way to
+make sure this doesn't kill the business.
 
 Since demand is so high, what if we charge by the character? That'll align our
 cost center with the value add.
@@ -40,7 +41,6 @@ they need to hand write a note.
 
 
 🧠 Is a written note taxable? If so, what's the tax code? Does that matter?
-
 
 
 ---

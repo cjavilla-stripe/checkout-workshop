@@ -1,12 +1,12 @@
 # 02 Flavor selection
 
 Customers love to identify with a specific flavor of ice-cream. "I'm a rocky
-road kinda gal." says one of the regulars. "I'm a funfetti kinda kid" says our
+road kinda gal." says one of the regulars. "I'm a funfetti kinda kid" says your
 neighbor. They want variety!
 
 When starting out in beta, you didn't even have a website, so you kept it simple
 and used PaymentLinks. It's killing Cherry and your sister that customer's can't
-pick more flavors, tho.
+pick more flavors.
 
 There's a jira ticket sitting in your inbox to add "flavor selection" to the site.
 

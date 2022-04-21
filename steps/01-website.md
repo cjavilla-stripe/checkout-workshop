@@ -6,7 +6,6 @@ Spin up a basic website and use
 [this](https://gist.github.com/cjavilla-stripe/37347c9a3413ad1dd7c6d476fe8fd862)
 (or something like it) as your landing page.
 
-
 Take a look around, checkout the medicine cabinets, see if there are any spots
 on the silverware 🥄. Feel free to tweak a bit to make it your own.
 
@@ -20,11 +19,11 @@ be okay with this for long. We learned at work that we can do this thing called
 Set up your page so that it fetches the flavors from inventory. At the end of
 this section you should have a simple index page rendering all of the flavors.
 No need to actually implement Checkout, yet. Feel free to start from a Stripe
-Sample to save time: `stripe samples create accept-a-payment` then follow the
-pre-built flow.
+Sample to save time: `stripe samples create accept-a-payment` then select
+`prebuilt-checkout-page` then `html` then your preferred server language.
 
 
-Ideas:
+**Ideas**:
 
 * Pull from the Stripe API
 * Hard code some client side JSON
@@ -35,7 +34,6 @@ Ideas:
 🧠 What are the tradeoffs with each of those approaches? What data do you
 _really_ need for display? What about data required for ultimately [creating the
 Checkout Session](https://stripe.com/docs/api/checkout/sessions/create)?
-
 
 ---
 

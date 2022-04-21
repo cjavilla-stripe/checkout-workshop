@@ -4,6 +4,19 @@ You, Mamey, and Cherry are starting to have some tough conversations about the
 future of the business. Their UXR shows that if we don't ship flavor selection
 _this week_ then the business is [default dead](http://www.paulgraham.com/aord.html).
 
+You know there are a couple options that will not require high PCI compliance
+burden: Elements and Checkout.
+
+On one hand, Checkout is marked low-code somewhere in the Stripe docs, which
+seems to indicate it would be a bit easier to integrate and maintain.
+
+On the other hand, Elements would allow you to build flavor selection and payment
+into the _same_ form. How do we feel about redirecting the customer out to Stripe?
+
+Is it worth the extra dev work to add and maintain Elements, handle errors, manage
+PaymentIntent state, coupons, taxes, line items, etc? Or should you offload all of
+that to Stripe?
+
 
 ## Actions
 
@@ -20,6 +33,9 @@ taxes and you'll know where to send the goods.
 - [ ] enable tax collection
 - [ ] enable another payment method
 - [ ] make it possible to adjust quantities
+
+🧠 Would you really use Elements or Checkout if this was a real side project,
+why or why not? Would the beta Orders API change that decision?
 
 🧠 Can the session be created client-side? server-side?
 
